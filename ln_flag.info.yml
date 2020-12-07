@@ -1,0 +1,5 @@
+name: LexisNexis Flag
+type: module
+description: LexisNexis flag provider
+core: 8.x
+package: LexisNexis

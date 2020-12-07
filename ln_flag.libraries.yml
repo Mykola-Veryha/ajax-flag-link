@@ -1,0 +1,3 @@
+ln_flag.ajax_flag_link:
+  js:
+    js/ajax_flag_link.js: {}

@@ -1,0 +1,6 @@
+diocese_core.path_with_data:
+  path: '/ln-flag-ajax-link/{flag_id}/{entity_id}'
+  defaults:
+    _controller: '\Drupal\ln_flag\Controller\LnFlagAjaxLinkController::Render'
+  requirements:
+    _access: 'TRUE'
